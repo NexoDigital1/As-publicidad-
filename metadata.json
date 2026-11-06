@@ -1,0 +1,6 @@
+{
+  "name": "AS PUBLICIDAD — Digital Experience iOS 27 | NEXO DIGITAL",
+  "description": "Plataforma comercial de ultra-lujo para AS Publicidad en Mexicali. Impresión de alta definición, publicidad exterior, textil y artículos promocionales. Desarrollado por NEXO DIGITAL MEXICALI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
